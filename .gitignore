@@ -22,6 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-firebase-admin/ambert-alert-firebase-adminsdk.json
-# Ignore Firebase Admin SDK credentials
-src/firebase-admin/ambert-alert-firebase-adminsdk.json
+

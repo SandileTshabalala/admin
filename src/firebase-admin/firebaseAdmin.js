@@ -3,7 +3,7 @@ import serviceAccount from './ambert-alert-firebase-adminsdk.json' assert { type
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
-    databaseURL: "https://ambert-alert-default-rtdb.firebaseio.com"
+    // databaseURL: "https://ambert-alert-default-rtdb.firebaseio.com"
 });
 
 
