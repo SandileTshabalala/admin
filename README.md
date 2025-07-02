@@ -1,7 +1,11 @@
 # Amber Admin Panel
 
 A modern admin dashboard built with React, Vite, and Material-UI, featuring real-time data visualization and Firebase integration.
+The Admin Panel is intended for administrators to manage and monitor the Amber Alert App, overseeing alerts, managing user data, and maintaining the overall system.
+Admin Panel: Administrative interface for managing alerts and user data.
 
+admin/: Contains the admin panel code for managing the Amber Alert App.
+I didn't know how to upload 2 projects in one repo back then.
 ## Features
 
 - Modern Material-UI based dashboard
